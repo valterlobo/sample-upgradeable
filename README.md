@@ -1,4 +1,4 @@
-# Project sample-upgradeable
+#  --  Project sample-upgradeable --
 
 
 This project demonstrates a basic openzeppelin upgradable use case. 
@@ -6,6 +6,9 @@ This project demonstrates a basic openzeppelin upgradable use case.
 Simple contract:   V1 , V2 
 
 ERC 20 token: ERC20UpgradableV1 , ERC20UpgradableV2 
+
+ > # safety requirements were not observed 
+
 
 # Ref: 
 ## How to Create and Deploy an Upgradeable Smart Contract using OpenZeppelin and Hardhat
@@ -17,7 +20,11 @@ https://dev.to/envoy_/upgradable-erc-20-smart-contract-part-1-5433
 ## Upgrades Plugins
 https://docs.openzeppelin.com/upgrades-plugins/1.x/
 
-## Tasks:
+## UPGRADING SMART CONTRACTS 
+https://ethereum.org/en/developers/docs/smart-contracts/upgrading/
+
+
+# Tasks:
 
 ```shell
 npm install
@@ -51,5 +58,6 @@ npx hardhat verify --contract "contracts/ERC20UpgradableV1.sol:ERC20UpgradableV1
 npx hardhat run scripts/02-minterc20.js --network mumbai
 
 ```
+
 
 
