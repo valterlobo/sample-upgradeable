@@ -23,6 +23,8 @@ https://docs.openzeppelin.com/upgrades-plugins/1.x/
 ## UPGRADING SMART CONTRACTS 
 https://ethereum.org/en/developers/docs/smart-contracts/upgrading/
 
+## How to create ERC-721 Upgradeable Smart Contracts
+https://medium.com/@KamalliElmeddin/how-to-create-erc-721-upgradeable-smart-contracts-d960493b640c
 
 # Tasks:
 
