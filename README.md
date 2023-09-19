@@ -26,6 +26,10 @@ https://ethereum.org/en/developers/docs/smart-contracts/upgrading/
 ## How to create ERC-721 Upgradeable Smart Contracts
 https://medium.com/@KamalliElmeddin/how-to-create-erc-721-upgradeable-smart-contracts-d960493b640c
 
+## Upgradeable and Clonable Blockchain Smart Contracts?! Proxies and Factory Patterns — Developers Guide
+https://medium.com/@harshgill2954/upgradeable-and-clonable-blockchain-smart-contracts-f3df36bbba6c
+
+
 # Tasks:
 
 ```shell
